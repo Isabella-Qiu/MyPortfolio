@@ -4,6 +4,10 @@
  * Copyright 2011-2019 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
+ .shortcon {
+   float: right;
+   color: rgb(175, 166, 166);
+ }
  .underl {
    text-decoration: underline;
  }
@@ -26,7 +30,7 @@
   transition: 0.5s;
  }
 .imgWrap {
-   max-width: 400px; 
+   width: 250px; 
    height: auto;
  }
  .mitApp {

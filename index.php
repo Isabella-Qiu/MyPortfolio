@@ -9,7 +9,7 @@
       <!-- Please make sure to change all the #'s to the proper link names-->
       <li><a href="AboutMe.html">AboutMe.html</a></li></br>
       <li><a href="Projects.html">Projects.html</a></li></br>
-      <li><a href="Resume.html">Resume.html</a></li></br>
+      <li><a href="WorkExperience.html">WorkExperience.html</a></li></br>
       <li><a href="ContactMe.html">ContactMe.html</a></li></br>
     <ul>
   </body>
